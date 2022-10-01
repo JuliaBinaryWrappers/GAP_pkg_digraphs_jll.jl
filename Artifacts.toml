@@ -1,69 +1,69 @@
 [[GAP_pkg_digraphs]]
 arch = "aarch64"
-git-tree-sha1 = "eea8389ae492ee9efd1c932831cb81248e3059be"
+git-tree-sha1 = "2db61343dba1e455f35846b7758157914990487d"
 os = "macos"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "80f2a367915ad78a85624edb7e766cc7d7af311267ee8f0e5c0a214910f0cd3b"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+0/GAP_pkg_digraphs.v100.500.300.aarch64-apple-darwin.tar.gz"
+    sha256 = "042c655e2e9c9cb89c4385f31ccc1395a8f911d18c6ffb1f9fbbcece10e1f966"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+1/GAP_pkg_digraphs.v100.500.300.aarch64-apple-darwin.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "aarch64"
-git-tree-sha1 = "8d968c93fece804cc1a546f3fa894d4b844ec412"
+git-tree-sha1 = "119e36fa593b51ca78f43e33cb6578972bb46522"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "bbe436eb6af358c6e88d4377ca2f87f5206db207c110e1a8fea9a58fc9b0e446"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+0/GAP_pkg_digraphs.v100.500.300.aarch64-linux-gnu.tar.gz"
+    sha256 = "9bd01c3df7ab0d2a5fcd63fb71064bd389eea36dfde090cc28ef943913e9497c"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+1/GAP_pkg_digraphs.v100.500.300.aarch64-linux-gnu.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "aarch64"
-git-tree-sha1 = "bc0bad1daa7a68522e276fe75e66b4a7bcb59d34"
+git-tree-sha1 = "0963184f4c407fa3f90dd464e2d80b55da743bf6"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "9e19d222e5bfc84a4c247e9ebd9616aafa07b61a89af49680a8bdc8d8f35d26c"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+0/GAP_pkg_digraphs.v100.500.300.aarch64-linux-musl.tar.gz"
+    sha256 = "c8fb6ff03090dade850cf76421a79d629c7aaff17864adfb9ff792638013de77"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+1/GAP_pkg_digraphs.v100.500.300.aarch64-linux-musl.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "powerpc64le"
-git-tree-sha1 = "f32951e200f2bd1d81a56537ae48447997f56120"
+git-tree-sha1 = "00253ef2e9880a01dbcdc95634d6dd5891d850fe"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "f6b3b92c59c3fc55412d5ed3ce53da71938160e5de2599069cd44f7ce8be0518"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+0/GAP_pkg_digraphs.v100.500.300.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "8869e96e01da5a188a20347dc6e9b65a38b0517e347c75c75eb82342299539ef"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+1/GAP_pkg_digraphs.v100.500.300.powerpc64le-linux-gnu.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "x86_64"
-git-tree-sha1 = "e293c348d42a522c3985c10173df82e0222a0c37"
+git-tree-sha1 = "323b7e2d3e74cbe261ef61ef26d7cc506131c602"
 os = "macos"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "83b71fec00a4b4bad65639fdfa5b6beb9f692255d4712a31a70ebf62b62083f2"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+0/GAP_pkg_digraphs.v100.500.300.x86_64-apple-darwin.tar.gz"
+    sha256 = "568213858ae794e9e7c013141963cf1bf77ca293667396c31cec36c00187f486"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+1/GAP_pkg_digraphs.v100.500.300.x86_64-apple-darwin.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "x86_64"
-git-tree-sha1 = "429162631252d2282daa4402a01fb9afe7a8041d"
+git-tree-sha1 = "40ddfcbf66c465da80c5a34cd5289917f85792a7"
 libc = "glibc"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "7c9967ca2274458bb9e5e3c3e4f491d10466fe21c0aebb0b1f16efc1c6a6cbe6"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+0/GAP_pkg_digraphs.v100.500.300.x86_64-linux-gnu.tar.gz"
+    sha256 = "5306c5ed3711b34303c3527d8db9df380fd7c0ceab6b03d5346515db44204f97"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+1/GAP_pkg_digraphs.v100.500.300.x86_64-linux-gnu.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "x86_64"
-git-tree-sha1 = "2edf46fb6a799a48772e94e91eb62d11b5fd89f8"
+git-tree-sha1 = "e4796c5d67c05848e204dd495705e2a511b9e0bc"
 libc = "musl"
 os = "linux"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "b7747b9e85d25d6d13896478a012c249b752650adc265d350204777189b10406"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+0/GAP_pkg_digraphs.v100.500.300.x86_64-linux-musl.tar.gz"
+    sha256 = "7211162d76f328d72755e9a242b5dd43bb07d063ba036e0f7a2cd85cfd68fd6d"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+1/GAP_pkg_digraphs.v100.500.300.x86_64-linux-musl.tar.gz"
 [[GAP_pkg_digraphs]]
 arch = "x86_64"
-git-tree-sha1 = "79cd13c5c51646181b8b42a7fc7e1e4e606081b1"
+git-tree-sha1 = "27136cc68a672026ba9c458b0472e4be5f80adce"
 os = "freebsd"
 
     [[GAP_pkg_digraphs.download]]
-    sha256 = "e1c106f824fece4f1df585af08f75eccd8a71e0a4cdaf0dc190246725ef79663"
-    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+0/GAP_pkg_digraphs.v100.500.300.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d658101cb5a8ca98b0d0770a71ed8b6f50363e287deb138fe4dd4d79918a94c6"
+    url = "https://github.com/JuliaBinaryWrappers/GAP_pkg_digraphs_jll.jl/releases/download/GAP_pkg_digraphs-v100.500.300+1/GAP_pkg_digraphs.v100.500.300.x86_64-unknown-freebsd.tar.gz"
